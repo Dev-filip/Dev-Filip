@@ -1,4 +1,6 @@
-## Hi there 👋
+# Dev Filip
+
+**`Student, Minecraft technician and beginner developer`**
 
 <!--
 **Dev-filip/Dev-Filip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
